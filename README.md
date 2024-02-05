@@ -1,5 +1,3 @@
-# odin-recipes
-
 --start of the project--
 
 In this project i'm going to code a recipe website using the things i have learned so far. 
